@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+
+  .app-heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .input-box-todo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .icons i{
+    margin: 4px;
+    font-size: large;
+    cursor: pointer;
+    transition: 0.1s;   
+  }
+  .icons i:hover{
+    transform: scale(1.2);  
+  }
+  .icon-delete:hover{
+    color: red;
+  }
